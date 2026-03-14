@@ -265,7 +265,7 @@ SELECT *
 FROM employees
 WHERE Status != 'Active';
 ```
-[Download CSV File](Export records of employees aren’t active.csv)
+[Download Employees Not Active CSV](https://github.com/Yemigunju/Employee-Management-System/raw/1db6fbfb78d706fcdedbedb38726014bcfee8711/Export%20records%20of%20employees%20aren%E2%80%99t%20active.csv)
 ---
 
 ## 8. January 2026 Attendance Records
@@ -344,7 +344,7 @@ LIMIT 5,5;
 ```
 
 This query demonstrates **pagination**, retrieving records **6–10 after the first five**.
-[Download CSV File](Next 5 Employees (Pagination).csv)
+[Download Next 5 Performers CSV](https://raw.githubusercontent.com/Yemigunju/Employee-Management-System/1db6fbfb78d706fcdedbedb38726014bcfee8711/Next%205%20Employees%20(Pagination).csv)
 ---
 
 # Observations on the Project
