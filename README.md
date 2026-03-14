@@ -357,4 +357,4 @@ This project highlights the importance of understanding the **structure of datab
 # Author
 
 Opeyemi Morakinyo
-Business Intelligence Analyst.
+Business Intelligence Analyst | Sql | Excel | PowerBi
