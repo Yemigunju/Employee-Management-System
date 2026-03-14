@@ -1,0 +1,6 @@
+EmployeeID,FirstName,LastName,DateOfBirth,Gender,Email,PhoneNumber,HireDate,JobID,DepartmentID,ManagerID,Status,PerformanceID,EmployeeID,ReviewDate,Rating,Comments
+7,Sophia,Miller,1992-12-27,F,sophia.miller@email.com,555-0107,2016-04-03,2,1,6,Inactive,297,7,2028-03-24,5,""Outstanding contribution and leadership presence.""
+17,Harper,Taylor,1996-05-15,F,harper.taylor@email.com,555-0117,2019-01-25,2,2,5,"On Leave",287,17,2028-02-23,5,""Outstanding innovation and execution.""
+11,Mia,Hernandez,1994-11-03,F,mia.hernandez@email.com,555-0111,2017-02-14,2,1,7,Active,281,11,2028-02-05,5,""Exceptional initiative and leadership.""
+7,Sophia,Miller,1992-12-27,F,sophia.miller@email.com,555-0107,2016-04-03,2,1,6,Inactive,277,7,2028-01-23,5,""Exceeds expectations consistently.""
+17,Harper,Taylor,1996-05-15,F,harper.taylor@email.com,555-0117,2019-01-25,2,2,5,"On Leave",267,17,2027-12-23,5,""Exceptional execution and strategic value.""

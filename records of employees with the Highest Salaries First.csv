@@ -1,0 +1,265 @@
+EmployeeID,FirstName,LastName,DateOfBirth,Gender,Email,PhoneNumber,HireDate,JobID,DepartmentID,ManagerID,Status,SalaryID,EmployeeID,SalaryAmount,FromDate,ToDate
+38,Jack,Lopez,1986-06-14,M,jack.lopez@email.com,555-0138,2011-09-27,4,1,7,Active,188,38,150000.00,2025-12-01,NULL
+38,Jack,Lopez,1986-06-14,M,jack.lopez@email.com,555-0138,2011-09-27,4,1,7,Active,143,38,140000.00,2024-12-01,NULL
+18,Daniel,Moore,1981-08-02,M,daniel.moore@email.com,555-0118,2007-07-14,4,3,6,Active,168,18,140000.00,2025-09-01,NULL
+47,Mila,Mitchell,1992-01-16,F,mila.mitchell@email.com,555-0147,2016-04-08,2,2,5,Active,197,47,135000.00,2026-01-01,NULL
+18,Daniel,Moore,1981-08-02,M,daniel.moore@email.com,555-0118,2007-07-14,4,3,6,Active,132,18,130000.00,2024-09-01,NULL
+27,Victoria,Clark,1993-10-01,F,victoria.clark@email.com,555-0127,2016-07-12,2,2,5,Active,177,27,130000.00,2026-02-01,NULL
+38,Jack,Lopez,1986-06-14,M,jack.lopez@email.com,555-0138,2011-09-27,4,1,7,Active,93,38,125000.00,2023-12-01,NULL
+47,Mila,Mitchell,1992-01-16,F,mila.mitchell@email.com,555-0147,2016-04-08,2,2,5,Active,148,47,125000.00,2025-01-01,NULL
+42,Owen,Adams,1988-12-30,M,owen.adams@email.com,555-0142,2012-05-22,3,1,7,Active,192,42,125000.00,2026-05-01,NULL
+27,Victoria,Clark,1993-10-01,F,victoria.clark@email.com,555-0127,2016-07-12,2,2,5,Active,137,27,120000.00,2025-02-01,NULL
+7,Sophia,Miller,1992-12-27,F,sophia.miller@email.com,555-0107,2016-04-03,2,1,6,Inactive,157,7,120000.00,2025-04-01,NULL
+18,Daniel,Moore,1981-08-02,M,daniel.moore@email.com,555-0118,2007-07-14,4,3,6,Active,82,18,115000.00,2023-09-01,NULL
+7,Sophia,Miller,1992-12-27,F,sophia.miller@email.com,555-0107,2016-04-03,2,1,6,Inactive,126,7,115000.00,2024-04-01,NULL
+42,Owen,Adams,1988-12-30,M,owen.adams@email.com,555-0142,2012-05-22,3,1,7,Active,145,42,115000.00,2025-05-01,NULL
+68,Nathan,Ward,1982-07-30,M,nathan.ward@email.com,555-0168,2008-03-10,4,4,12,Active,245,68,115000.00,2026-09-01,NULL
+98,Alexander,Alexander,1987-07-10,M,alexander.alexander@email.com,555-0198,2011-02-14,4,3,6,Active,283,98,115000.00,2026-09-01,NULL
+38,Jack,Lopez,1986-06-14,M,jack.lopez@email.com,555-0138,2011-09-27,4,1,7,Active,38,38,110000.00,2021-12-01,NULL
+47,Mila,Mitchell,1992-01-16,F,mila.mitchell@email.com,555-0147,2016-04-08,2,2,5,Active,98,47,110000.00,2024-01-01,NULL
+22,Joseph,Martin,1988-11-11,M,joseph.martin@email.com,555-0122,2012-09-12,3,3,6,Active,172,22,110000.00,2025-05-20,NULL
+68,Nathan,Ward,1982-07-30,M,nathan.ward@email.com,555-0168,2008-03-10,4,4,12,Active,221,68,108000.00,2024-09-01,NULL
+98,Alexander,Alexander,1987-07-10,M,alexander.alexander@email.com,555-0198,2011-02-14,4,3,6,Active,269,98,108000.00,2025-09-01,NULL
+18,Daniel,Moore,1981-08-02,M,daniel.moore@email.com,555-0118,2007-07-14,4,3,6,Active,18,18,105000.00,2021-09-01,NULL
+27,Victoria,Clark,1993-10-01,F,victoria.clark@email.com,555-0127,2016-07-12,2,2,5,Active,87,27,105000.00,2024-02-01,NULL
+22,Joseph,Martin,1988-11-11,M,joseph.martin@email.com,555-0122,2012-09-12,3,3,6,Active,134,22,105000.00,2024-05-20,NULL
+64,Alexander,Cooper,1979-10-27,M,alexander.cooper@email.com,555-0164,2005-11-10,1,3,NULL,Active,243,64,105000.00,2026-01-10,NULL
+94,Henry,Simmons,1982-03-23,M,henry.simmons@email.com,555-0194,2008-06-02,1,3,6,Active,281,94,105000.00,2026-01-10,NULL
+10,Benjamin,Rodriguez,1983-02-11,M,benjamin.rodriguez@email.com,555-0110,2009-09-10,5,3,6,"On Leave",160,10,102000.00,2025-03-01,NULL
+7,Sophia,Miller,1992-12-27,F,sophia.miller@email.com,555-0107,2016-04-03,2,1,6,Inactive,76,7,100000.00,2023-04-01,NULL
+42,Owen,Adams,1988-12-30,M,owen.adams@email.com,555-0142,2012-05-22,3,1,7,Active,95,42,100000.00,2024-05-01,NULL
+50,Daniel,Turner,1985-12-12,M,daniel.turner@email.com,555-0150,2010-01-15,5,4,12,Active,200,50,100000.00,2025-03-03,NULL
+64,Alexander,Cooper,1979-10-27,M,alexander.cooper@email.com,555-0164,2005-11-10,1,3,NULL,Active,216,64,99000.00,2024-01-10,NULL
+94,Henry,Simmons,1982-03-23,M,henry.simmons@email.com,555-0194,2008-06-02,1,3,6,Active,265,94,99000.00,2025-01-10,NULL
+10,Benjamin,Rodriguez,1983-02-11,M,benjamin.rodriguez@email.com,555-0110,2009-09-10,5,3,6,"On Leave",128,10,98000.00,2024-03-01,NULL
+57,Lily,Reed,1991-01-30,F,lily.reed@email.com,555-0157,2014-09-12,2,1,7,Active,240,57,98000.00,2026-02-12,NULL
+47,Mila,Mitchell,1992-01-16,F,mila.mitchell@email.com,555-0147,2016-04-08,2,2,5,Active,47,47,97000.00,2022-01-01,NULL
+30,Nathan,Lee,1984-09-14,M,nathan.lee@email.com,555-0130,2009-02-26,5,2,5,Active,180,30,96000.00,2025-07-07,NULL
+77,Aria,Sanders,1994-09-13,F,aria.sanders@email.com,555-0177,2017-07-12,2,1,7,Active,232,77,96000.00,2025-02-01,NULL
+27,Victoria,Clark,1993-10-01,F,victoria.clark@email.com,555-0127,2016-07-12,2,2,5,Active,27,27,95000.00,2022-02-01,NULL
+22,Joseph,Martin,1988-11-11,M,joseph.martin@email.com,555-0122,2012-09-12,3,3,6,Active,84,22,95000.00,2023-05-20,NULL
+50,Daniel,Turner,1985-12-12,M,daniel.turner@email.com,555-0150,2010-01-15,5,4,12,Active,150,50,95000.00,2024-03-03,NULL
+45,Scarlett,Nelson,1989-11-28,F,scarlett.nelson@email.com,555-0145,2013-02-15,5,3,6,Active,195,45,95000.00,2025-08-08,NULL
+72,Jack,Ramirez,1983-11-21,M,jack.ramirez@email.com,555-0172,2009-06-25,3,4,12,Active,247,72,95000.00,2026-05-20,NULL
+87,Aurora,Powell,1992-12-01,F,aurora.powell@email.com,555-0187,2016-09-08,2,1,7,Active,277,87,95000.00,2026-02-12,NULL
+42,Owen,Adams,1988-12-30,M,owen.adams@email.com,555-0142,2012-05-22,3,1,7,Active,42,42,92000.00,2022-05-01,NULL
+30,Nathan,Lee,1984-09-14,M,nathan.lee@email.com,555-0130,2009-02-26,5,2,5,Active,139,30,92000.00,2024-07-07,NULL
+12,Lucas,Lopez,1986-04-20,M,lucas.lopez@email.com,555-0112,2010-08-01,3,4,12,Active,162,12,92000.00,2025-05-01,NULL
+25,Scarlett,Martinez,1986-12-28,F,scarlett.martinez@email.com,555-0125,2011-03-05,5,3,6,Active,175,25,92000.00,2025-06-15,NULL
+57,Lily,Reed,1991-01-30,F,lily.reed@email.com,555-0157,2014-09-12,2,1,7,Active,207,57,92000.00,2024-02-12,NULL
+7,Sophia,Miller,1992-12-27,F,sophia.miller@email.com,555-0107,2016-04-03,2,1,6,Inactive,7,7,90000.00,2021-04-12,NULL
+10,Benjamin,Rodriguez,1983-02-11,M,benjamin.rodriguez@email.com,555-0110,2009-09-10,5,3,6,"On Leave",78,10,90000.00,2023-03-01,NULL
+45,Scarlett,Nelson,1989-11-28,F,scarlett.nelson@email.com,555-0145,2013-02-15,5,3,6,Active,147,45,90000.00,2024-08-08,NULL
+87,Aurora,Powell,1992-12-01,F,aurora.powell@email.com,555-0187,2016-09-08,2,1,7,Active,257,87,90000.00,2025-02-12,NULL
+22,Joseph,Martin,1988-11-11,M,joseph.martin@email.com,555-0122,2012-09-12,3,3,6,Active,22,22,88000.00,2021-05-20,NULL
+50,Daniel,Turner,1985-12-12,M,daniel.turner@email.com,555-0150,2010-01-15,5,4,12,Active,100,50,88000.00,2023-03-03,NULL
+12,Lucas,Lopez,1986-04-20,M,lucas.lopez@email.com,555-0112,2010-08-01,3,4,12,Active,129,12,88000.00,2024-05-01,NULL
+25,Scarlett,Martinez,1986-12-28,F,scarlett.martinez@email.com,555-0125,2011-03-05,5,3,6,Active,136,25,88000.00,2024-06-15,NULL
+32,Ryan,Hall,1985-07-20,M,ryan.hall@email.com,555-0132,2010-04-12,3,1,6,Active,182,32,88000.00,2025-11-11,NULL
+72,Jack,Ramirez,1983-11-21,M,jack.ramirez@email.com,555-0172,2009-06-25,3,4,12,Active,226,72,88000.00,2024-05-20,NULL
+60,Lucas,Bell,1980-03-18,M,lucas.bell@email.com,555-0160,2006-08-05,5,3,6,Active,241,60,88000.00,2025-05-25,NULL
+90,Jack,Hughes,1985-01-03,M,jack.hughes@email.com,555-0190,2010-07-22,5,3,6,Active,279,90,88000.00,2026-05-25,NULL
+5,Ava,Jones,1982-10-05,F,ava.jones@email.com,555-0105,2008-11-25,5,2,NULL,Active,155,5,86000.00,2025-01-01,NULL
+44,Henry,Gonzalez,1982-04-17,M,henry.gonzalez@email.com,555-0144,2008-11-05,1,2,5,Active,194,44,86000.00,2025-04-01,NULL
+30,Nathan,Lee,1984-09-14,M,nathan.lee@email.com,555-0130,2009-02-26,5,2,5,Active,89,30,85000.00,2023-07-07,NULL
+32,Ryan,Hall,1985-07-20,M,ryan.hall@email.com,555-0132,2010-04-12,3,1,6,Active,140,32,85000.00,2024-11-11,NULL
+24,Samuel,Garcia,1983-07-09,M,samuel.garcia@email.com,555-0124,2009-06-18,1,2,5,Active,174,24,85000.00,2025-01-01,NULL
+80,Owen,Wood,1984-05-14,M,owen.wood@email.com,555-0180,2009-11-01,5,4,12,"On Leave",250,80,85000.00,2026-07-07,NULL
+80,Owen,Wood,1984-05-14,M,owen.wood@email.com,555-0180,2009-11-01,5,4,12,"On Leave",300,80,85000.00,2027-07-07,NULL
+10,Benjamin,Rodriguez,1983-02-11,M,benjamin.rodriguez@email.com,555-0110,2009-09-10,5,3,6,"On Leave",10,10,83000.00,2020-03-25,NULL
+44,Henry,Gonzalez,1982-04-17,M,henry.gonzalez@email.com,555-0144,2008-11-05,1,2,5,Active,146,44,83000.00,2024-04-01,NULL
+40,Caleb,Scott,1985-01-28,M,caleb.scott@email.com,555-0140,2010-07-14,5,2,5,Active,190,40,83000.00,2025-01-01,NULL
+60,Lucas,Bell,1980-03-18,M,lucas.bell@email.com,555-0160,2006-08-05,5,3,6,Active,211,60,83000.00,2023-05-25,NULL
+90,Jack,Hughes,1985-01-03,M,jack.hughes@email.com,555-0190,2010-07-22,5,3,6,Active,261,90,83000.00,2024-05-25,NULL
+45,Scarlett,Nelson,1989-11-28,F,scarlett.nelson@email.com,555-0145,2013-02-15,5,3,6,Active,97,45,82000.00,2023-08-08,NULL
+5,Ava,Jones,1982-10-05,F,ava.jones@email.com,555-0105,2008-11-25,5,2,NULL,Active,125,5,82000.00,2024-01-01,NULL
+24,Samuel,Garcia,1983-07-09,M,samuel.garcia@email.com,555-0124,2009-06-18,1,2,5,Active,135,24,82000.00,2024-01-01,NULL
+20,Matthew,White,1985-06-10,M,matthew.white@email.com,555-0120,2010-05-05,5,4,12,Active,170,20,82000.00,2025-10-01,NULL
+36,Gabriel,King,1983-11-09,M,gabriel.king@email.com,555-0136,2009-03-03,3,2,5,Active,186,36,82000.00,2025-06-01,NULL
+50,Daniel,Turner,1985-12-12,M,daniel.turner@email.com,555-0150,2010-01-15,5,4,12,Active,50,50,81000.00,2021-03-03,NULL
+12,Lucas,Lopez,1986-04-20,M,lucas.lopez@email.com,555-0112,2010-08-01,3,4,12,Active,79,12,80000.00,2022-05-01,NULL
+25,Scarlett,Martinez,1986-12-28,F,scarlett.martinez@email.com,555-0125,2011-03-05,5,3,6,Active,86,25,80000.00,2023-06-15,NULL
+40,Caleb,Scott,1985-01-28,M,caleb.scott@email.com,555-0140,2010-07-14,5,2,5,Active,144,40,80000.00,2024-01-01,NULL
+16,Alexander,Thomas,1978-10-30,M,alexander.thomas@email.com,555-0116,2004-03-10,3,4,NULL,Active,166,16,80000.00,2025-02-01,NULL
+53,Aria,Stewart,1990-12-28,F,aria.stewart@email.com,555-0153,2014-03-17,4,1,7,"On Leave",238,53,80000.00,2025-01-10,NULL
+75,Lily,Brooks,1992-10-01,F,lily.brooks@email.com,555-0175,2016-05-03,5,4,12,Active,248,75,80000.00,2026-06-15,NULL
+30,Nathan,Lee,1984-09-14,M,nathan.lee@email.com,555-0130,2009-02-26,5,2,5,Active,30,30,78000.00,2020-07-07,NULL
+32,Ryan,Hall,1985-07-20,M,ryan.hall@email.com,555-0132,2010-04-12,3,1,6,Active,90,32,78000.00,2022-11-11,NULL
+20,Matthew,White,1985-06-10,M,matthew.white@email.com,555-0120,2010-05-05,5,4,12,Active,133,20,78000.00,2024-10-01,NULL
+36,Gabriel,King,1983-11-09,M,gabriel.king@email.com,555-0136,2009-03-03,3,2,5,Active,142,36,78000.00,2024-06-01,NULL
+80,Owen,Wood,1984-05-14,M,owen.wood@email.com,555-0180,2009-11-01,5,4,12,"On Leave",236,80,78000.00,2024-07-07,NULL
+62,Benjamin,Bailey,1984-11-12,M,benjamin.bailey@email.com,555-0162,2009-03-20,3,4,12,Active,242,62,78000.00,2026-05-14,NULL
+83,Charlotte,Henderson,1990-06-09,F,charlotte.henderson@email.com,555-0183,2014-08-22,4,2,5,Active,275,83,78000.00,2026-01-10,NULL
+92,Liam,Washington,1988-09-29,M,liam.washington@email.com,555-0192,2012-03-18,3,4,12,Active,280,92,78000.00,2026-05-14,NULL
+9,Isabella,Martinez,1991-06-16,F,isabella.martinez@email.com,555-0109,2014-05-22,1,2,5,Active,159,9,77000.00,2025-01-01,NULL
+45,Scarlett,Nelson,1989-11-28,F,scarlett.nelson@email.com,555-0145,2013-02-15,5,3,6,Active,45,45,76000.00,2020-08-08,NULL
+44,Henry,Gonzalez,1982-04-17,M,henry.gonzalez@email.com,555-0144,2008-11-05,1,2,5,Active,96,44,76000.00,2022-04-01,NULL
+5,Ava,Jones,1982-10-05,F,ava.jones@email.com,555-0105,2008-11-25,5,2,NULL,Active,75,5,75000.00,2022-01-01,NULL
+24,Samuel,Garcia,1983-07-09,M,samuel.garcia@email.com,555-0124,2009-06-18,1,2,5,Active,85,24,75000.00,2022-01-01,NULL
+16,Alexander,Thomas,1978-10-30,M,alexander.thomas@email.com,555-0116,2004-03-10,3,4,NULL,Active,131,16,75000.00,2024-02-01,NULL
+53,Aria,Stewart,1990-12-28,F,aria.stewart@email.com,555-0153,2014-03-17,4,1,7,"On Leave",203,53,75000.00,2023-01-10,NULL
+9,Isabella,Martinez,1991-06-16,F,isabella.martinez@email.com,555-0109,2014-05-22,1,2,5,Active,127,9,74000.00,2024-01-01,NULL
+83,Charlotte,Henderson,1990-06-09,F,charlotte.henderson@email.com,555-0183,2014-08-22,4,2,5,Active,253,83,74000.00,2024-01-10,NULL
+40,Caleb,Scott,1985-01-28,M,caleb.scott@email.com,555-0140,2010-07-14,5,2,5,Active,94,40,73000.00,2023-01-01,NULL
+17,Harper,Taylor,1996-05-15,F,harper.taylor@email.com,555-0117,2019-01-25,2,2,5,"On Leave",167,17,73000.00,2025-04-09,NULL
+12,Lucas,Lopez,1986-04-20,M,lucas.lopez@email.com,555-0112,2010-08-01,3,4,12,Active,12,12,72000.00,2019-05-14,NULL
+25,Scarlett,Martinez,1986-12-28,F,scarlett.martinez@email.com,555-0125,2011-03-05,5,3,6,Active,25,25,72000.00,2020-06-15,NULL
+62,Benjamin,Bailey,1984-11-12,M,benjamin.bailey@email.com,555-0162,2009-03-20,3,4,12,Active,214,62,72000.00,2023-05-14,NULL
+75,Lily,Brooks,1992-10-01,F,lily.brooks@email.com,555-0175,2016-05-03,5,4,12,Active,229,75,72000.00,2024-06-15,NULL
+55,Grace,Morris,1993-04-19,F,grace.morris@email.com,555-0155,2016-07-11,5,2,5,Active,239,55,72000.00,2025-03-20,NULL
+79,Grace,Bennett,1991-07-08,F,grace.bennett@email.com,555-0179,2014-02-16,1,2,5,Active,249,79,72000.00,2026-09-09,NULL
+92,Liam,Washington,1988-09-29,M,liam.washington@email.com,555-0192,2012-03-18,3,4,12,Active,263,92,72000.00,2024-05-14,NULL
+85,Scarlett,Jenkins,1995-03-11,F,scarlett.jenkins@email.com,555-0185,2018-05-30,5,2,5,Active,276,85,72000.00,2026-03-20,NULL
+55,Grace,Morris,1993-04-19,F,grace.morris@email.com,555-0155,2016-07-11,5,2,5,Active,298,55,72000.00,2026-03-20,NULL
+32,Ryan,Hall,1985-07-20,M,ryan.hall@email.com,555-0132,2010-04-12,3,1,6,Active,32,32,71000.00,2019-11-11,NULL
+33,Zoe,Allen,1992-03-27,F,zoe.allen@email.com,555-0133,2016-06-02,4,2,5,Active,183,33,71000.00,2025-05-05,NULL
+44,Henry,Gonzalez,1982-04-17,M,henry.gonzalez@email.com,555-0144,2008-11-05,1,2,5,Active,44,44,70000.00,2019-04-01,NULL
+20,Matthew,White,1985-06-10,M,matthew.white@email.com,555-0120,2010-05-05,5,4,12,Active,83,20,70000.00,2022-10-01,NULL
+36,Gabriel,King,1983-11-09,M,gabriel.king@email.com,555-0136,2009-03-03,3,2,5,Active,92,36,70000.00,2022-06-01,NULL
+17,Harper,Taylor,1996-05-15,F,harper.taylor@email.com,555-0117,2019-01-25,2,2,5,"On Leave",109,17,70000.00,2023-04-09,NULL
+13,Charlotte,Gonzalez,1989-12-12,F,charlotte.gonzalez@email.com,555-0113,2013-06-30,4,2,5,Active,163,13,70000.00,2025-10-01,NULL
+70,Samuel,Peterson,1986-04-15,M,samuel.peterson@email.com,555-0170,2011-10-07,5,3,6,"On Leave",246,70,70000.00,2026-10-10,NULL
+100,Owen,Griffin,1984-02-21,M,owen.griffin@email.com,555-0200,2009-09-10,5,4,12,Active,284,100,70000.00,2026-10-10,NULL
+70,Samuel,Peterson,1986-04-15,M,samuel.peterson@email.com,555-0170,2011-10-07,5,3,6,"On Leave",299,70,70000.00,2027-10-10,NULL
+24,Samuel,Garcia,1983-07-09,M,samuel.garcia@email.com,555-0124,2009-06-18,1,2,5,Active,24,24,69000.00,2019-12-01,NULL
+6,William,Garcia,1979-08-19,M,william.garcia@email.com,555-0106,2005-01-30,3,3,NULL,Active,156,6,69000.00,2025-02-01,NULL
+74,Ryan,Watson,1987-06-17,M,ryan.watson@email.com,555-0174,2011-12-15,1,3,6,Active,228,74,69000.00,2023-12-01,NULL
+85,Scarlett,Jenkins,1995-03-11,F,scarlett.jenkins@email.com,555-0185,2018-05-30,5,2,5,Active,255,85,69000.00,2024-03-20,NULL
+5,Ava,Jones,1982-10-05,F,ava.jones@email.com,555-0105,2008-11-25,5,2,NULL,Active,5,5,68000.00,2019-11-20,NULL
+16,Alexander,Thomas,1978-10-30,M,alexander.thomas@email.com,555-0116,2004-03-10,3,4,NULL,Active,81,16,68000.00,2022-02-01,NULL
+33,Zoe,Allen,1992-03-27,F,zoe.allen@email.com,555-0133,2016-06-02,4,2,5,Active,116,33,68000.00,2023-05-05,NULL
+37,Aria,Wright,1991-02-22,F,aria.wright@email.com,555-0137,2014-05-08,2,3,6,"On Leave",187,37,68000.00,2025-08-18,NULL
+55,Grace,Morris,1993-04-19,F,grace.morris@email.com,555-0155,2016-07-11,5,2,5,Active,205,55,68000.00,2023-03-20,NULL
+66,Matthew,Cox,1985-09-23,M,matthew.cox@email.com,555-0166,2010-02-17,3,2,5,Active,244,66,68000.00,2025-02-15,NULL
+96,Benjamin,Gonzales,1985-06-02,M,benjamin.gonzales@email.com,555-0196,2010-01-29,3,2,5,Active,282,96,68000.00,2026-02-15,NULL
+40,Caleb,Scott,1985-01-28,M,caleb.scott@email.com,555-0140,2010-07-14,5,2,5,Active,40,40,67000.00,2020-09-15,NULL
+9,Isabella,Martinez,1991-06-16,F,isabella.martinez@email.com,555-0109,2014-05-22,1,2,5,Active,77,9,67000.00,2022-01-01,NULL
+13,Charlotte,Gonzalez,1989-12-12,F,charlotte.gonzalez@email.com,555-0113,2013-06-30,4,2,5,Active,107,13,67000.00,2023-10-01,NULL
+6,William,Garcia,1979-08-19,M,william.garcia@email.com,555-0106,2005-01-30,3,3,NULL,Active,104,6,66000.00,2023-02-01,NULL
+79,Grace,Bennett,1991-07-08,F,grace.bennett@email.com,555-0179,2014-02-16,1,2,5,Active,235,79,66000.00,2023-09-09,NULL
+37,Aria,Wright,1991-02-22,F,aria.wright@email.com,555-0137,2014-05-08,2,3,6,"On Leave",118,37,65000.00,2023-08-18,NULL
+21,Ella,Harris,1992-09-23,F,ella.harris@email.com,555-0121,2016-02-08,2,2,5,Active,171,21,65000.00,2025-03-12,NULL
+41,Layla,Green,1993-09-02,F,layla.green@email.com,555-0141,2016-03-19,2,3,6,Active,191,41,65000.00,2025-01-01,NULL
+46,Leo,Carter,1984-08-09,M,leo.carter@email.com,555-0146,2009-06-22,3,4,NULL,Active,196,46,65000.00,2025-05-01,NULL
+89,Chloe,Patterson,1990-08-22,F,chloe.patterson@email.com,555-0189,2014-05-13,1,2,5,"On Leave",278,89,65000.00,2026-08-01,NULL
+20,Matthew,White,1985-06-10,M,matthew.white@email.com,555-0120,2010-05-05,5,4,12,Active,20,20,64000.00,2020-10-10,NULL
+70,Samuel,Peterson,1986-04-15,M,samuel.peterson@email.com,555-0170,2011-10-07,5,3,6,"On Leave",224,70,64000.00,2023-10-10,NULL
+100,Owen,Griffin,1984-02-21,M,owen.griffin@email.com,555-0200,2009-09-10,5,4,12,Active,272,100,64000.00,2024-10-10,NULL
+36,Gabriel,King,1983-11-09,M,gabriel.king@email.com,555-0136,2009-03-03,3,2,5,Active,36,36,63000.00,2019-06-01,NULL
+17,Harper,Taylor,1996-05-15,F,harper.taylor@email.com,555-0117,2019-01-25,2,2,5,"On Leave",59,17,63000.00,2020-04-09,NULL
+26,David,Robinson,1980-05-16,M,david.robinson@email.com,555-0126,2006-09-21,3,4,NULL,Active,176,26,63000.00,2025-04-01,NULL
+16,Alexander,Thomas,1978-10-30,M,alexander.thomas@email.com,555-0116,2004-03-10,3,4,NULL,Active,16,16,62000.00,2019-02-15,NULL
+21,Ella,Harris,1992-09-23,F,ella.harris@email.com,555-0121,2016-02-08,2,2,5,Active,111,21,62000.00,2023-03-12,NULL
+41,Layla,Green,1993-09-02,F,layla.green@email.com,555-0141,2016-03-19,2,3,6,Active,120,41,62000.00,2023-01-01,NULL
+46,Leo,Carter,1984-08-09,M,leo.carter@email.com,555-0146,2009-06-22,3,4,NULL,Active,122,46,62000.00,2023-05-01,NULL
+39,Hannah,Hill,1990-10-19,F,hannah.hill@email.com,555-0139,2014-12-01,1,4,12,Active,189,39,62000.00,2024-03-03,NULL
+66,Matthew,Cox,1985-09-23,M,matthew.cox@email.com,555-0166,2010-02-17,3,2,5,Active,219,66,62000.00,2023-02-15,NULL
+96,Benjamin,Gonzales,1985-06-02,M,benjamin.gonzales@email.com,555-0196,2010-01-29,3,2,5,Active,267,96,62000.00,2024-02-15,NULL
+9,Isabella,Martinez,1991-06-16,F,isabella.martinez@email.com,555-0109,2014-05-22,1,2,5,Active,9,9,61000.00,2019-08-01,NULL
+13,Charlotte,Gonzalez,1989-12-12,F,charlotte.gonzalez@email.com,555-0113,2013-06-30,4,2,5,Active,57,13,61000.00,2020-10-01,NULL
+33,Zoe,Allen,1992-03-27,F,zoe.allen@email.com,555-0133,2016-06-02,4,2,5,Active,66,33,61000.00,2020-05-05,NULL
+59,Sophia,Morgan,1995-11-07,F,sophia.morgan@email.com,555-0159,2018-03-15,1,2,5,"On Leave",210,59,61000.00,2022-08-01,NULL
+89,Chloe,Patterson,1990-08-22,F,chloe.patterson@email.com,555-0189,2014-05-13,1,2,5,"On Leave",260,89,61000.00,2023-08-01,NULL
+6,William,Garcia,1979-08-19,M,william.garcia@email.com,555-0106,2005-01-30,3,3,NULL,Active,54,6,60000.00,2020-02-01,NULL
+26,David,Robinson,1980-05-16,M,david.robinson@email.com,555-0126,2006-09-21,3,4,NULL,Active,113,26,60000.00,2023-04-01,NULL
+39,Hannah,Hill,1990-10-19,F,hannah.hill@email.com,555-0139,2014-12-01,1,4,12,Active,119,39,60000.00,2022-03-03,NULL
+19,Evelyn,Jackson,1990-03-29,F,evelyn.jackson@email.com,555-0119,2014-11-03,1,1,7,Active,169,19,60000.00,2024-07-07,NULL
+35,Lily,Hernandez,1995-05-05,F,lily.hernandez@email.com,555-0135,2018-10-15,5,4,12,Active,185,35,60000.00,2024-10-10,NULL
+97,Harper,Bryant,1992-03-19,F,harper.bryant@email.com,555-0197,2016-05-30,2,1,7,"On Leave",296,97,60000.00,2026-04-09,NULL
+37,Aria,Wright,1991-02-22,F,aria.wright@email.com,555-0137,2014-05-08,2,3,6,"On Leave",68,37,59000.00,2020-08-18,NULL
+15,Amelia,Anderson,1984-01-21,F,amelia.anderson@email.com,555-0115,2009-12-01,5,1,6,Inactive,165,15,59000.00,2024-11-21,NULL
+17,Harper,Taylor,1996-05-15,F,harper.taylor@email.com,555-0117,2019-01-25,2,2,5,"On Leave",17,17,58000.00,2018-04-09,2020-04-08
+19,Evelyn,Jackson,1990-03-29,F,evelyn.jackson@email.com,555-0119,2014-11-03,1,1,7,Active,110,19,58000.00,2022-07-07,NULL
+43,Sofia,Baker,1995-07-21,F,sofia.baker@email.com,555-0143,2018-09-10,4,4,12,"On Leave",193,43,58000.00,2024-07-07,NULL
+67,Harper,Howard,1993-12-18,F,harper.howard@email.com,555-0167,2016-08-22,2,1,7,Active,220,67,58000.00,2022-04-09,NULL
+97,Harper,Bryant,1992-03-19,F,harper.bryant@email.com,555-0197,2016-05-30,2,1,7,"On Leave",268,97,58000.00,2023-04-09,NULL
+93,Zoe,Butler,1995-11-07,F,zoe.butler@email.com,555-0193,2018-01-20,4,2,5,Active,294,93,58000.00,2026-10-01,NULL
+21,Ella,Harris,1992-09-23,F,ella.harris@email.com,555-0121,2016-02-08,2,2,5,Active,61,21,57000.00,2020-03-12,NULL
+46,Leo,Carter,1984-08-09,M,leo.carter@email.com,555-0146,2009-06-22,3,4,NULL,Active,72,46,57000.00,2019-05-01,NULL
+35,Lily,Hernandez,1995-05-05,F,lily.hernandez@email.com,555-0135,2018-10-15,5,4,12,Active,117,35,57000.00,2021-10-10,NULL
+23,Abigail,Thompson,1995-02-17,F,abigail.thompson@email.com,555-0123,2018-04-22,4,1,7,"On Leave",173,23,57000.00,2024-08-01,NULL
+13,Charlotte,Gonzalez,1989-12-12,F,charlotte.gonzalez@email.com,555-0113,2013-06-30,4,2,5,Active,13,13,56000.00,2018-10-01,2020-09-30
+33,Zoe,Allen,1992-03-27,F,zoe.allen@email.com,555-0133,2016-06-02,4,2,5,Active,33,33,56000.00,2018-05-05,2020-05-04
+41,Layla,Green,1993-09-02,F,layla.green@email.com,555-0141,2016-03-19,2,3,6,Active,70,41,56000.00,2020-01-01,NULL
+15,Amelia,Anderson,1984-01-21,F,amelia.anderson@email.com,555-0115,2009-12-01,5,1,6,Inactive,108,15,56000.00,2021-11-21,NULL
+43,Sofia,Baker,1995-07-21,F,sofia.baker@email.com,555-0143,2018-09-10,4,4,12,"On Leave",121,43,56000.00,2021-07-07,NULL
+31,Chloe,Walker,1990-12-03,F,chloe.walker@email.com,555-0131,2014-01-15,2,4,12,"On Leave",181,31,56000.00,2025-02-20,NULL
+63,Scarlett,Rivera,1987-05-02,F,scarlett.rivera@email.com,555-0163,2011-07-16,4,2,5,Active,215,63,56000.00,2022-10-01,NULL
+86,Caleb,Perry,1983-07-25,M,caleb.perry@email.com,555-0186,2009-02-17,3,3,6,"On Leave",256,86,56000.00,2022-11-01,NULL
+93,Zoe,Butler,1995-11-07,F,zoe.butler@email.com,555-0193,2018-01-20,4,2,5,Active,264,93,56000.00,2023-10-01,NULL
+86,Caleb,Perry,1983-07-25,M,caleb.perry@email.com,555-0186,2009-02-17,3,3,6,"On Leave",293,86,56000.00,2025-11-01,NULL
+6,William,Garcia,1979-08-19,M,william.garcia@email.com,555-0106,2005-01-30,3,3,NULL,Active,6,6,55000.00,2018-02-01,2020-01-31
+26,David,Robinson,1980-05-16,M,david.robinson@email.com,555-0126,2006-09-21,3,4,NULL,Active,63,26,55000.00,2019-04-01,NULL
+48,Sebastian,Perez,1987-05-25,M,sebastian.perez@email.com,555-0148,2011-07-19,4,1,7,"On Leave",198,48,55000.00,2024-09-09,NULL
+56,Daniel,Rogers,1985-08-22,M,daniel.rogers@email.com,555-0156,2010-06-02,3,3,6,Inactive,206,56,55000.00,2021-11-01,NULL
+37,Aria,Wright,1991-02-22,F,aria.wright@email.com,555-0137,2014-05-08,2,3,6,"On Leave",37,37,54000.00,2018-08-18,2020-08-17
+23,Abigail,Thompson,1995-02-17,F,abigail.thompson@email.com,555-0123,2018-04-22,4,1,7,"On Leave",112,23,54000.00,2021-08-01,NULL
+31,Chloe,Walker,1990-12-03,F,chloe.walker@email.com,555-0131,2014-01-15,2,4,12,"On Leave",115,31,54000.00,2023-02-20,NULL
+52,Mason,Collins,1983-06-08,M,mason.collins@email.com,555-0152,2009-09-12,3,3,6,Active,237,52,54000.00,2025-09-15,NULL
+82,Alexander,Ross,1987-02-17,M,alexander.ross@email.com,555-0182,2011-06-11,3,3,6,Active,274,82,54000.00,2025-09-15,NULL
+52,Mason,Collins,1983-06-08,M,mason.collins@email.com,555-0152,2009-09-12,3,3,6,Active,297,52,54000.00,2026-09-15,NULL
+39,Hannah,Hill,1990-10-19,F,hannah.hill@email.com,555-0139,2014-12-01,1,4,12,Active,69,39,53000.00,2019-03-03,2022-03-02
+21,Ella,Harris,1992-09-23,F,ella.harris@email.com,555-0121,2016-02-08,2,2,5,Active,21,21,52000.00,2018-03-12,2020-03-11
+46,Leo,Carter,1984-08-09,M,leo.carter@email.com,555-0146,2009-06-22,3,4,NULL,Active,46,46,52000.00,2017-05-01,2019-04-30
+19,Evelyn,Jackson,1990-03-29,F,evelyn.jackson@email.com,555-0119,2014-11-03,1,1,7,Active,60,19,52000.00,2019-07-07,2022-07-06
+48,Sebastian,Perez,1987-05-25,M,sebastian.perez@email.com,555-0148,2011-07-19,4,1,7,"On Leave",123,48,52000.00,2021-09-09,NULL
+28,Andrew,Rodriguez,1987-03-21,M,andrew.rodriguez@email.com,555-0128,2011-12-10,4,1,7,Inactive,178,28,52000.00,2024-01-01,NULL
+52,Mason,Collins,1983-06-08,M,mason.collins@email.com,555-0152,2009-09-12,3,3,6,Active,202,52,52000.00,2021-09-15,NULL
+76,David,Kelly,1980-01-26,M,david.kelly@email.com,555-0176,2006-04-19,3,2,5,Inactive,231,76,52000.00,2024-04-01,NULL
+82,Alexander,Ross,1987-02-17,M,alexander.ross@email.com,555-0182,2011-06-11,3,3,6,Active,252,82,52000.00,2022-09-15,NULL
+76,David,Kelly,1980-01-26,M,david.kelly@email.com,555-0176,2006-04-19,3,2,5,Inactive,289,76,52000.00,2025-04-01,NULL
+41,Layla,Green,1993-09-02,F,layla.green@email.com,555-0141,2016-03-19,2,3,6,Active,41,41,51000.00,2018-01-01,2019-12-31
+35,Lily,Hernandez,1995-05-05,F,lily.hernandez@email.com,555-0135,2018-10-15,5,4,12,Active,67,35,51000.00,2018-10-10,2021-10-09
+71,Chloe,Gray,1991-08-29,F,chloe.gray@email.com,555-0171,2014-01-12,2,1,7,Active,225,71,51000.00,2024-03-12,NULL
+26,David,Robinson,1980-05-16,M,david.robinson@email.com,555-0126,2006-09-21,3,4,NULL,Active,26,26,50000.00,2017-04-01,2019-03-31
+15,Amelia,Anderson,1984-01-21,F,amelia.anderson@email.com,555-0115,2009-12-01,5,1,6,Inactive,58,15,50000.00,2018-11-21,2021-11-20
+43,Sofia,Baker,1995-07-21,F,sofia.baker@email.com,555-0143,2018-09-10,4,4,12,"On Leave",71,43,50000.00,2018-07-07,2021-07-06
+28,Andrew,Rodriguez,1987-03-21,M,andrew.rodriguez@email.com,555-0128,2011-12-10,4,1,7,Inactive,114,28,50000.00,2021-01-01,NULL
+11,Mia,Hernandez,1994-11-03,F,mia.hernandez@email.com,555-0111,2017-02-14,2,1,7,Active,161,11,50000.00,2025-01-01,NULL
+58,Jacob,Cook,1988-07-14,M,jacob.cook@email.com,555-0158,2012-02-25,4,4,12,Active,209,58,50000.00,2023-06-18,NULL
+76,David,Kelly,1980-01-26,M,david.kelly@email.com,555-0176,2006-04-19,3,2,5,Inactive,230,76,50000.00,2022-04-01,2024-03-31
+58,Jacob,Cook,1988-07-14,M,jacob.cook@email.com,555-0158,2012-02-25,4,4,12,Active,285,58,50000.00,2025-06-18,NULL
+23,Abigail,Thompson,1995-02-17,F,abigail.thompson@email.com,555-0123,2018-04-22,4,1,7,"On Leave",62,23,49000.00,2018-08-01,2021-07-31
+69,Ella,Torres,1995-01-12,F,ella.torres@email.com,555-0169,2018-05-18,1,2,5,Active,223,69,49000.00,2023-07-07,NULL
+99,Aurora,Russell,1991-10-05,F,aurora.russell@email.com,555-0199,2014-04-28,1,2,5,Active,271,99,49000.00,2024-07-07,NULL
+69,Ella,Torres,1995-01-12,F,ella.torres@email.com,555-0169,2018-05-18,1,2,5,Active,288,69,49000.00,2025-07-07,NULL
+39,Hannah,Hill,1990-10-19,F,hannah.hill@email.com,555-0139,2014-12-01,1,4,12,Active,39,39,48000.00,2017-03-03,2019-03-02
+31,Chloe,Walker,1990-12-03,F,chloe.walker@email.com,555-0131,2014-01-15,2,4,12,"On Leave",65,31,48000.00,2019-02-20,NULL
+11,Mia,Hernandez,1994-11-03,F,mia.hernandez@email.com,555-0111,2017-02-14,2,1,7,Active,106,11,48000.00,2023-01-01,NULL
+51,Victoria,Edwards,1986-02-15,F,victoria.edwards@email.com,555-0151,2011-05-03,2,2,5,Active,201,51,48000.00,2022-04-01,NULL
+88,Leo,Long,1986-04-19,M,leo.long@email.com,555-0188,2011-01-24,4,4,12,Active,259,88,48000.00,2024-06-18,NULL
+81,Mia,Barnes,1993-11-20,F,mia.barnes@email.com,555-0181,2016-03-05,2,1,7,Active,273,81,48000.00,2025-04-01,NULL
+19,Evelyn,Jackson,1990-03-29,F,evelyn.jackson@email.com,555-0119,2014-11-03,1,1,7,Active,19,19,47000.00,2017-07-07,2019-07-06
+48,Sebastian,Perez,1987-05-25,M,sebastian.perez@email.com,555-0148,2011-07-19,4,1,7,"On Leave",73,48,47000.00,2018-09-09,2021-09-08
+58,Jacob,Cook,1988-07-14,M,jacob.cook@email.com,555-0158,2012-02-25,4,4,12,Active,208,58,47000.00,2020-06-18,2023-06-17
+65,Amelia,Richardson,1990-02-06,F,amelia.richardson@email.com,555-0165,2014-06-04,5,4,12,"On Leave",218,65,47000.00,2024-11-21,NULL
+69,Ella,Torres,1995-01-12,F,ella.torres@email.com,555-0169,2018-05-18,1,2,5,Active,222,69,47000.00,2021-07-07,2023-07-06
+88,Leo,Long,1986-04-19,M,leo.long@email.com,555-0188,2011-01-24,4,4,12,Active,258,88,47000.00,2021-06-18,2024-06-17
+99,Aurora,Russell,1991-10-05,F,aurora.russell@email.com,555-0199,2014-04-28,1,2,5,Active,270,99,47000.00,2022-07-07,2024-07-06
+65,Amelia,Richardson,1990-02-06,F,amelia.richardson@email.com,555-0165,2014-06-04,5,4,12,"On Leave",287,65,47000.00,2026-11-21,NULL
+35,Lily,Hernandez,1995-05-05,F,lily.hernandez@email.com,555-0135,2018-10-15,5,4,12,Active,35,35,46000.00,2016-10-10,2018-10-09
+81,Mia,Barnes,1993-11-20,F,mia.barnes@email.com,555-0181,2016-03-05,2,1,7,Active,251,81,46000.00,2023-04-01,NULL
+15,Amelia,Anderson,1984-01-21,F,amelia.anderson@email.com,555-0115,2009-12-01,5,1,6,Inactive,15,15,45000.00,2016-11-21,2018-11-20
+23,Abigail,Thompson,1995-02-17,F,abigail.thompson@email.com,555-0123,2018-04-22,4,1,7,"On Leave",23,23,45000.00,2016-08-01,2018-07-31
+43,Sofia,Baker,1995-07-21,F,sofia.baker@email.com,555-0143,2018-09-10,4,4,12,"On Leave",43,43,45000.00,2016-07-07,2018-07-06
+28,Andrew,Rodriguez,1987-03-21,M,andrew.rodriguez@email.com,555-0128,2011-12-10,4,1,7,Inactive,64,28,45000.00,2018-01-01,2020-12-31
+65,Amelia,Richardson,1990-02-06,F,amelia.richardson@email.com,555-0165,2014-06-04,5,4,12,"On Leave",217,65,45000.00,2021-11-21,2024-11-20
+73,Zoey,James,1990-03-03,F,zoey.james@email.com,555-0173,2014-09-30,4,2,5,Active,227,73,45000.00,2022-08-01,NULL
+95,Lily,Foster,1990-12-14,F,lily.foster@email.com,555-0195,2014-09-11,5,4,12,Active,266,95,45000.00,2022-11-21,2025-11-20
+95,Lily,Foster,1990-12-14,F,lily.foster@email.com,555-0195,2014-09-11,5,4,12,Active,295,95,45000.00,2025-11-21,NULL
+31,Chloe,Walker,1990-12-03,F,chloe.walker@email.com,555-0131,2014-01-15,2,4,12,"On Leave",31,31,43000.00,2017-02-20,2019-02-19
+48,Sebastian,Perez,1987-05-25,M,sebastian.perez@email.com,555-0148,2011-07-19,4,1,7,"On Leave",48,48,43000.00,2016-09-09,2018-09-08
+11,Mia,Hernandez,1994-11-03,F,mia.hernandez@email.com,555-0111,2017-02-14,2,1,7,Active,56,11,43000.00,2019-01-01,NULL
+54,Elijah,Sanchez,1982-09-05,M,elijah.sanchez@email.com,555-0154,2008-11-21,1,4,12,Active,204,54,43000.00,2022-07-01,NULL
+78,Elijah,Price,1985-12-04,M,elijah.price@email.com,555-0178,2010-08-27,4,3,6,Active,234,78,43000.00,2024-01-01,NULL
+84,Henry,Coleman,1981-10-27,M,henry.coleman@email.com,555-0184,2007-12-05,1,4,12,Active,254,84,43000.00,2023-07-01,NULL
+78,Elijah,Price,1985-12-04,M,elijah.price@email.com,555-0178,2010-08-27,4,3,6,Active,290,78,43000.00,2025-01-01,NULL
+61,Mia,Murphy,1992-06-25,F,mia.murphy@email.com,555-0161,2016-01-30,2,1,7,Active,213,61,42000.00,2024-01-01,NULL
+61,Mia,Murphy,1992-06-25,F,mia.murphy@email.com,555-0161,2016-01-30,2,1,7,Active,286,61,42000.00,2025-01-01,NULL
+84,Henry,Coleman,1981-10-27,M,henry.coleman@email.com,555-0184,2007-12-05,1,4,12,Active,292,84,42000.00,2026-07-01,NULL
+28,Andrew,Rodriguez,1987-03-21,M,andrew.rodriguez@email.com,555-0128,2011-12-10,4,1,7,Inactive,28,28,41000.00,2016-01-15,2017-12-31
+78,Elijah,Price,1985-12-04,M,elijah.price@email.com,555-0178,2010-08-27,4,3,6,Active,233,78,41000.00,2021-01-15,2023-12-31
+61,Mia,Murphy,1992-06-25,F,mia.murphy@email.com,555-0161,2016-01-30,2,1,7,Active,212,61,40000.00,2021-01-01,2023-12-31
+91,Ella,Flores,1993-05-16,F,ella.flores@email.com,555-0191,2016-11-01,2,1,7,Active,262,91,40000.00,2022-01-01,2024-12-31
+91,Ella,Flores,1993-05-16,F,ella.flores@email.com,555-0191,2016-11-01,2,1,7,Active,291,91,40000.00,2025-01-01,NULL
+11,Mia,Hernandez,1994-11-03,F,mia.hernandez@email.com,555-0111,2017-02-14,2,1,7,Active,11,11,39000.00,2017-01-01,2018-12-31
