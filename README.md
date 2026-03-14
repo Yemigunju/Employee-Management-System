@@ -198,7 +198,7 @@ FROM employees;
 
 ### Query Result
 
-[Download CSV File]All employess fullname and email list.csv)
+[Download CSV File](All employess fullname and email list.csv)
 ---
 
 ## 2. Active Employees
