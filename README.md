@@ -198,7 +198,7 @@ FROM employees;
 
 ### Query Result
 
-[Download CSV](All%20employess%20fullname%20and%20email%20list.csv)
+[Download Employee Fullnae and Email](All%20employess%20fullname%20and%20email%20list.csv)
 ---
 
 ## 2. Active Employees
@@ -208,7 +208,7 @@ SELECT *
 FROM employees
 WHERE Status = 'Active';
 ```
-[Download CSV File](active employees only.csv)
+[Active Employees CSV](active%20employees%20only.csv)
 ---
 
 ## 3. Employees Absent from Work
