@@ -231,7 +231,7 @@ ON D.DeptID = E.DepartmentID
 WHERE DeptName = 'Finance'
 AND Status = 'Active';
 ```
-[Download CSV File](employees from the finance department who are still active.csv)
+[Download Finance Department Active Employees Dataset](https://raw.githubusercontent.com/Yemigunju/Employee-Management-System/b293cd2ca5a636a34fb9db631991c329aee15e9d/employees%20from%20the%20finance%20department%20who%20are%20still%20active.csv)
 ---
 
 ## 5. Employees Earning Above 100,000
