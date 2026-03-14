@@ -208,7 +208,7 @@ SELECT *
 FROM employees
 WHERE Status = 'Active';
 ```
-[Active Employees CSV](active%20employees%20only.csv)
+[Download Active Employees](active%20employees%20only.csv)
 ---
 
 ## 3. Employees Absent from Work
@@ -218,7 +218,7 @@ SELECT *
 FROM attendance
 WHERE Status = 'Absent';
 ```
-[Download CSV File](absent employees.csv)
+[Download Absent Employees Dataset](data/absent_employees.csv)
 ---
 
 ## 4. Active Employees in Finance Department
