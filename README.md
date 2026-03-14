@@ -243,7 +243,7 @@ JOIN salaries S
 ON E.EmployeeID = S.EmployeeID
 WHERE SalaryAmount > 100000;
 ```
-[[Download employee records who are paid above one hundred thousand](employee records who are paid above one hundred thousand.csv)](https://raw.githubusercontent.com/Yemigunju/Employee-Management-System/e5ce472bd2ea45d981c452cf7505fbc5ff39b14a/employee%20records%20who%20are%20paid%20above%20one%20hundred%20thousand.csv)
+[[Download employee records who are paid above one hundred thousand](https://raw.githubusercontent.com/Yemigunju/Employee-Management-System/e5ce472bd2ea45d981c452cf7505fbc5ff39b14a/employee%20records%20who%20are%20paid%20above%20one%20hundred%20thousand.csv)
 ---
 
 ## 6. Employees in HR and Finance Departments
