@@ -289,7 +289,7 @@ SELECT *
 FROM employees
 ORDER BY LastName;
 ```
-[Download CSV File](Order Employees by last name in alphabetical Alphabetically.csv)
+[Download Order Employees by last name in alphabetical Alphabetically.csv](https://github.com/Yemigunju/Employee-Management-System/blob/b96c7b77b4444db354917c0180bef7e4ca905102/Order%20Employees%20by%20last%20name%20in%20alphabetical%20Alphabetically.csv)
 ---
 
 ## Employees with Highest Salaries
@@ -301,7 +301,7 @@ JOIN salaries S
 ON E.EmployeeID = S.EmployeeID
 ORDER BY SalaryAmount DESC;
 ```
-[Download CSV File](records of employees with the Highest Salaries First.csv)
+[Download Employees with Highest Salaries CSV](https://raw.githubusercontent.com/Yemigunju/Employee-Management-System/b96c7b77b4444db354917c0180bef7e4ca905102/records%20of%20employees%20with%20the%20Highest%20Salaries%20First.csv)
 ---
 
 # Distinct Records
@@ -312,7 +312,7 @@ ORDER BY SalaryAmount DESC;
 SELECT DISTINCT *
 FROM departments;
 ```
-[Download CSV File](Unique Departments in the organization.csv)
+[Download Unique Departments CSV](https://github.com/Yemigunju/Employee-Management-System/raw/b96c7b77b4444db354917c0180bef7e4ca905102/Unique%20Departments%20in%20the%20organization.csv)
 ---
 
 # Performance Analytics
