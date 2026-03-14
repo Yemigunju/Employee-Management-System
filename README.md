@@ -255,7 +255,7 @@ JOIN departments D
 ON E.DepartmentID = D.DeptID
 WHERE DeptName IN ('Human Resources', 'Finance');
 ```
-[Download CSV File](https://raw.githubusercontent.com/Yemigunju/Employee-Management-System/e5ce472bd2ea45d981c452cf7505fbc5ff39b14a/information%20about%20employees%20from%20the%20HR%20and%20Finance%20department.csv)
+[Download Employees in HR and Finance Departments](https://raw.githubusercontent.com/Yemigunju/Employee-Management-System/e5ce472bd2ea45d981c452cf7505fbc5ff39b14a/information%20about%20employees%20from%20the%20HR%20and%20Finance%20department.csv)
 ---
 
 ## 7. Employees Not Active
