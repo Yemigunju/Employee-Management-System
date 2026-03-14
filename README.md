@@ -185,7 +185,7 @@ SELECT * FROM salaries;
 
 ---
 
-# Example Analytical Queries
+# Analytical Queries
 
 ## 1. Employee Full Name and Email
 
@@ -195,8 +195,6 @@ Displays employee names and emails.
 SELECT CONCAT(FirstName,' ', LastName) AS Full_name, Email
 FROM employees;
 ```
-
-### Query Result
 
 This query demonstrates **sorting**, displaying Active Employees
 ![employee names and emails]()
