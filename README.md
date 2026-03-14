@@ -195,6 +195,9 @@ Displays employee names and emails.
 SELECT CONCAT(FirstName,' ', LastName) AS Full_name, Email
 FROM employees;
 ```
+
+### Query Result
+
 [Download CSV File](All employess fullname and email list.csv)
 ---
 
