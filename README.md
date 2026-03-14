@@ -198,7 +198,10 @@ FROM employees;
 
 ### Query Result
 
-[Download Employee Fullnae and Email](All%20employess%20fullname%20and%20email%20list.csv)
+This query demonstrates **sorting**, displaying Active Employees
+![employee names and emails]()
+
+[Download Employee Fullname and Email](All%20employess%20fullname%20and%20email%20list.csv)
 ---
 
 ## 2. Active Employees
@@ -208,6 +211,7 @@ SELECT *
 FROM employees
 WHERE Status = 'Active';
 ```
+This query demonstrates **sorting**, displaying Active Employees
 [Download Active Employees](active%20employees%20only.csv)
 ---
 
@@ -218,6 +222,7 @@ SELECT *
 FROM attendance
 WHERE Status = 'Absent';
 ```
+This query demonstrates **sorting**, displaying Employees Absent from Work
 [Download Absent Employees Dataset](data/absent_employees.csv)
 ---
 
@@ -231,6 +236,7 @@ ON D.DeptID = E.DepartmentID
 WHERE DeptName = 'Finance'
 AND Status = 'Active';
 ```
+This query demonstrates **sorting**, displaying Active Employees in Finance Department
 [Download Finance Department Active Employees Dataset](https://raw.githubusercontent.com/Yemigunju/Employee-Management-System/b293cd2ca5a636a34fb9db631991c329aee15e9d/employees%20from%20the%20finance%20department%20who%20are%20still%20active.csv)
 ---
 
@@ -243,6 +249,7 @@ JOIN salaries S
 ON E.EmployeeID = S.EmployeeID
 WHERE SalaryAmount > 100000;
 ```
+This query demonstrates **sorting**, displaying Employees Earning Above 100,000
 [Download employee records who are paid above one hundred thousand](https://raw.githubusercontent.com/Yemigunju/Employee-Management-System/e5ce472bd2ea45d981c452cf7505fbc5ff39b14a/employee%20records%20who%20are%20paid%20above%20one%20hundred%20thousand.csv)
 ---
 
@@ -255,6 +262,7 @@ JOIN departments D
 ON E.DepartmentID = D.DeptID
 WHERE DeptName IN ('Human Resources', 'Finance');
 ```
+This query demonstrates **sorting**, displaying Employees in HR and Finance Departments
 [Download Employees in HR and Finance Departments](https://raw.githubusercontent.com/Yemigunju/Employee-Management-System/e5ce472bd2ea45d981c452cf7505fbc5ff39b14a/information%20about%20employees%20from%20the%20HR%20and%20Finance%20department.csv)
 ---
 
@@ -265,6 +273,7 @@ SELECT *
 FROM employees
 WHERE Status != 'Active';
 ```
+This query demonstrates **sorting**, displaying Employees Not Active
 [Download Employees Not Active CSV](https://github.com/Yemigunju/Employee-Management-System/raw/1db6fbfb78d706fcdedbedb38726014bcfee8711/Export%20records%20of%20employees%20aren%E2%80%99t%20active.csv)
 ---
 
@@ -277,6 +286,7 @@ JOIN attendance A
 ON E.EmployeeID = A.EmployeeID
 WHERE AttendanceDate LIKE '2026-01-%';
 ```
+This query demonstrates **sorting**, displaying January 2026 Attendance Records
 [Download January 2026 Attendance Records CSV](https://raw.githubusercontent.com/Yemigunju/Employee-Management-System/fee5ea7058b250aad23a1c3f455225ef7087072d/attendance%20records%20of%20employees%20who%20were%20present%20in%20attendance%20only%20in%20Jan%202026.csv)
 ---
 
@@ -289,6 +299,7 @@ SELECT *
 FROM employees
 ORDER BY LastName;
 ```
+This query demonstrates **sorting and ranking**, displaying Employees Sorted Alphabetically by Last Name
 [Download Order Employees by last name in alphabetical Alphabetically.csv](https://github.com/Yemigunju/Employee-Management-System/blob/b96c7b77b4444db354917c0180bef7e4ca905102/Order%20Employees%20by%20last%20name%20in%20alphabetical%20Alphabetically.csv)
 ---
 
@@ -301,6 +312,7 @@ JOIN salaries S
 ON E.EmployeeID = S.EmployeeID
 ORDER BY SalaryAmount DESC;
 ```
+This query demonstrates **sorting and ranking**, displaying Employees with Highest Salaries
 [Download Employees with Highest Salaries CSV](https://raw.githubusercontent.com/Yemigunju/Employee-Management-System/b96c7b77b4444db354917c0180bef7e4ca905102/records%20of%20employees%20with%20the%20Highest%20Salaries%20First.csv)
 ---
 
@@ -312,6 +324,7 @@ ORDER BY SalaryAmount DESC;
 SELECT DISTINCT *
 FROM departments;
 ```
+This query demonstrates **distinct records**, displaying the Unique Departments in the organization
 [Download Unique Departments CSV](https://github.com/Yemigunju/Employee-Management-System/raw/b96c7b77b4444db354917c0180bef7e4ca905102/Unique%20Departments%20in%20the%20organization.csv)
 ---
 
@@ -327,6 +340,7 @@ ON E.EmployeeID = P.EmployeeID
 ORDER BY Rating DESC, ReviewDate DESC
 LIMIT 0,5;
 ```
+This query demonstrates **ordering**, displaying the Top 5 Performers in the organization
 [Download Top 5 Performers CSV](https://github.com/Yemigunju/Employee-Management-System/raw/bf4032478622728b642b1d2e3bd9fb5b6385958d/Top%205%20Performers.csv)
 ---
 
@@ -346,6 +360,19 @@ LIMIT 5,5;
 This query demonstrates **pagination**, retrieving records **6–10 after the first five**.
 [Download Next 5 Performers CSV](https://raw.githubusercontent.com/Yemigunju/Employee-Management-System/1db6fbfb78d706fcdedbedb38726014bcfee8711/Next%205%20Employees%20(Pagination).csv)
 ---
+
+
+## Tools Used
+
+This Employee Management System project was built and analyzed using the following tools:
+
+- **MySQL Workbench** – For creating the database, tables, and running SQL queries.
+- **CSV Files** – For storing query results and exporting data for further analysis.
+- **Markdown** – For writing and formatting the README file.
+- **Screenshots / Image Editor** – For capturing query results and database schema visuals.
+- **GitHub** – For version control and hosting the project repository online.
+- **Excel** – For opening and analyzing CSV results.
+
 
 # Observations on the Project
 
